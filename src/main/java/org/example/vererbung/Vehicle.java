@@ -1,6 +1,6 @@
 package org.example.vererbung;
 
-public class Fahrzeug {
+public class Vehicle {
     private String brand;
     private String model;
     private int year;

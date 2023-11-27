@@ -1,6 +1,6 @@
 package org.example.vererbung;
 
-public class Auto extends Fahrzeug {
+public class Car extends Vehicle {
     public int amountOfDoors;
 
     public void setAmountOfDoors(int amountOfDoors) {
