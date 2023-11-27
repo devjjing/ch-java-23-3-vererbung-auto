@@ -8,10 +8,11 @@ public class Main {
         audir8.setModel("R8 4S");
         audir8.setYear(2006);
         audir8.setAmountOfDoors(2);
+        audir8.printData();
     }
 
-    public static void printFahrzeug(Vehicle a) {
-        System.out.println(a);
-    }
+    //public static void printFahrzeug(Vehicle a) {
+      //  System.out.println(a);
+    //}
 
 }

@@ -28,5 +28,9 @@ public class Vehicle {
     public void setYear(int year) {
         this.year = year;
     }
+
+    public void printData(){
+        System.out.println("Fahrzeug der Marke "+brand+"mit Modell "+model+ "und Jahr "+year);
+    }
 }
 
